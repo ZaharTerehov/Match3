@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationAssets Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizationAssets
+  m_TableCollectionNameGuidString: 543ebc80011b07442bc4ec25f45d3081
+  m_Entries:
+  - m_Id: 563937071104
+    m_Key: ExitWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631679275008
+    m_Key: LevelSelectionWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460421648384
+    m_Key: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879386480640
+    m_Key: LocalizationPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 750310969344
+    m_Key: NextQuest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9124603809792
+    m_Key: Obstacles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9822154313728
+    m_Key: Tokens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10048999051264
+    m_Key: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10256856174592
+    m_Key: Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10410233483264
+    m_Key: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10546401562624
+    m_Key: Yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10690656260096
+    m_Key: Orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10812110721024
+    m_Key: Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10976204476416
+    m_Key: Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11176935477248
+    m_Key: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11237832577024
+    m_Key: Lose
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1665566193135

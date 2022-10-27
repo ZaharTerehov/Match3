@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationAssets_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 543ebc80011b07442bc4ec25f45d3081, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 460421648384
+    m_Localized: Fruit Match-3 Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 563937071104
+    m_Localized: Are you sure you want to leave?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631679275008
+    m_Localized: Complete the previous level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 750310969344
+    m_Localized: NEXT QUEST!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879386480640
+    m_Localized: Choose your language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9124603809792
+    m_Localized: Destroy {0} Obstacles
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 9822154313728
+    m_Localized: Destroy {0} tokens
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10048999051264
+    m_Localized: Destroy {0} red
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10256856174592
+    m_Localized: Destroy {0} green
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10410233483264
+    m_Localized: Destroy {0} blue
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10546401562624
+    m_Localized: Destroy {0} yellow
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10690656260096
+    m_Localized: Destroy {0} orange
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10812110721024
+    m_Localized: Destroy {0} ice
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10976204476416
+    m_Localized: Destroy {0} stone
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 11176935477248
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11237832577024
+    m_Localized: Lose
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0c47c4c08000000d004e6ee08000000d004b72309000000d0441c5409000000d044d27709000000d084869709000000d0c41cb909000000d00464d509000000d0c498fb090000

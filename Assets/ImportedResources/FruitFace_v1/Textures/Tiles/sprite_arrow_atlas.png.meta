@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: eac7e1cdd756b32418e2d9afd6871172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sprite_arrow_atlas_0
+  - first:
+      213: 21300002
+    second: sprite_arrow_atlas_1
+  - first:
+      213: 21300004
+    second: sprite_arrow_atlas_2
+  - first:
+      213: 21300006
+    second: sprite_arrow_atlas_3
+  - first:
+      213: 21300008
+    second: sprite_arrow_atlas_4
+  - first:
+      213: 21300010
+    second: sprite_arrow_atlas_5
+  - first:
+      213: 21300012
+    second: sprite_arrow_atlas_6
+  - first:
+      213: 21300014
+    second: sprite_arrow_atlas_7
+  - first:
+      213: 21300016
+    second: sprite_arrow_atlas_8
+  - first:
+      213: 21300018
+    second: sprite_arrow_atlas_9
+  - first:
+      213: 21300020
+    second: sprite_arrow_atlas_10
+  - first:
+      213: 21300022
+    second: sprite_arrow_atlas_11
+  - first:
+      213: 21300024
+    second: sprite_arrow_atlas_12
+  - first:
+      213: 21300026
+    second: sprite_arrow_atlas_13
+  - first:
+      213: 21300028
+    second: sprite_arrow_atlas_14
+  - first:
+      213: 21300030
+    second: sprite_arrow_atlas_15
+  - first:
+      213: 21300032
+    second: sprite_arrow_atlas_16
+  - first:
+      213: 21300034
+    second: sprite_arrow_atlas_17
+  - first:
+      213: 21300036
+    second: sprite_arrow_atlas_18
+  - first:
+      213: 21300038
+    second: sprite_arrow_atlas_19
+  - first:
+      213: 21300040
+    second: sprite_arrow_atlas_20
+  - first:
+      213: 21300042
+    second: sprite_arrow_atlas_21
+  - first:
+      213: 21300044
+    second: sprite_arrow_atlas_22
+  - first:
+      213: 21300046
+    second: sprite_arrow_atlas_23
+  - first:
+      213: 21300048
+    second: sprite_arrow_atlas_24
+  - first:
+      213: -6753115533539343373
+    second: sprite_arrow_atlas_0
+  - first:
+      213: 8245776722347927032
+    second: sprite_arrow_atlas_1
+  - first:
+      213: 5073138650793928000
+    second: sprite_arrow_atlas_2
+  - first:
+      213: 170228024362334091
+    second: sprite_arrow_atlas_3
+  - first:
+      213: -6533237324557031078
+    second: sprite_arrow_atlas_4
+  - first:
+      213: -7386534122811634044
+    second: sprite_arrow_atlas_5
+  - first:
+      213: 1770345435480907357
+    second: sprite_arrow_atlas_6
+  - first:
+      213: 7905305220544617251
+    second: sprite_arrow_atlas_7
+  - first:
+      213: -5933053143315551789
+    second: sprite_arrow_atlas_8
+  - first:
+      213: 5524266455480175968
+    second: sprite_arrow_atlas_9
+  - first:
+      213: -3142906427760762146
+    second: sprite_arrow_atlas_10
+  - first:
+      213: -8894552533887095196
+    second: sprite_arrow_atlas_11
+  - first:
+      213: -2576174689782193501
+    second: sprite_arrow_atlas_12
+  - first:
+      213: 697975971797379706
+    second: sprite_arrow_atlas_13
+  - first:
+      213: 7880820527451237380
+    second: sprite_arrow_atlas_14
+  - first:
+      213: -4225892878912812998
+    second: sprite_arrow_atlas_15
+  - first:
+      213: -6524056009258888880
+    second: sprite_arrow_atlas_16
+  - first:
+      213: 3491966342657156005
+    second: sprite_arrow_atlas_17
+  - first:
+      213: -2590100220236403270
+    second: sprite_arrow_atlas_18
+  - first:
+      213: 6809088053513070946
+    second: sprite_arrow_atlas_19
+  - first:
+      213: -6583446419922451177
+    second: sprite_arrow_atlas_20
+  - first:
+      213: -3491140222613856284
+    second: sprite_arrow_atlas_21
+  - first:
+      213: 2631101773770890908
+    second: sprite_arrow_atlas_22
+  - first:
+      213: -462942258423557640
+    second: sprite_arrow_atlas_23
+  - first:
+      213: 6787401210743828239
+    second: sprite_arrow_atlas_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1558
+        width: 427
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30738a33d1842a0800000000000000
+      internalID: -6753115533539343373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1558
+        width: 427
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5abb0bd32ee6270800000000000000
+      internalID: 8245776722347927032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1558
+        width: 427
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04560e869b8676640800000000000000
+      internalID: 5073138650793928000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1558
+        width: 427
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87feea7c75cc5200800000000000000
+      internalID: 170228024362334091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1046
+        width: 427
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59647494474555a0800000000000000
+      internalID: -6533237324557031078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1155
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec280d952cd7990800000000000000
+      internalID: -7386534122811634044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1155
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed29b3bc7819810800000000000000
+      internalID: 1770345435480907357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1352
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5a97c63945bd60800000000000000
+      internalID: 7905305220544617251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1058
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9692fc99f89ada0800000000000000
+      internalID: -5933053143315551789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 640
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d808b82132aac40800000000000000
+      internalID: 5524266455480175968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 640
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2270b71472264d0800000000000000
+      internalID: -3142906427760762146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 837
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eeb958893309480800000000000000
+      internalID: -8894552533887095196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 642
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22e20d4c69f3cd0800000000000000
+      internalID: -2576174689782193501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 642
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aadb4c275bfa900800000000000000
+      internalID: 697975971797379706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 839
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c665de38c4e5d60800000000000000
+      internalID: 7880820527451237380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 543
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388c8df0dc9a55c0800000000000000
+      internalID: -4225892878912812998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 545
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0511f5120a5e575a0800000000000000
+      internalID: -6524056009258888880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a323bd23e4f57030800000000000000
+      internalID: 3491966342657156005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 128
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde528929d1e0cd0800000000000000
+      internalID: -2590100220236403270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 325
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a002328dbe7e50800000000000000
+      internalID: 6809088053513070946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 128
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71584b69c56e2a4a0800000000000000
+      internalID: -6583446419922451177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 128
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd502e67afc8fc0800000000000000
+      internalID: -3491140222613856284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 325
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e93818f1d838420800000000000000
+      internalID: 2631101773770890908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 31
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1952ff77c4399f0800000000000000
+      internalID: -462942258423557640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arrow_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 31
+        width: 249
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f2172a071b13e50800000000000000
+      internalID: 6787401210743828239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f15d8674c461bc49999091769ba72e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

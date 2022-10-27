@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d48af243316441eae768537e041b835, type: 3}
+  m_Name: Level2SettingData
+  m_EditorClassIdentifier: 
+  CountTokensNeededToDestroy: 3
+  MaxCountMoves: 4
+  PointsForDestroyingToken: 1
+  LevelGoals:
+  - TypeLevelGoal: 0
+    TypeTile: 4
+    NeededToWinPoints: 4
+  - TypeLevelGoal: 0
+    TypeTile: 4
+    NeededToWinPoints: 3
+  IceSpawnChance: 5
+  StoneSpawnChance: 5
+  ComplicatedStoneSpawnChance: 5
+  BlockedPositions:
+  - {x: -3, y: 0, z: 0}
+  - {x: -2, y: 1, z: 0}
+  - {x: -1, y: 2, z: 0}
+  - {x: 0, y: 3, z: 0}
+  - {x: -2, y: 0, z: 0}
+  - {x: -1, y: 1, z: 0}
+  - {x: 0, y: 2, z: 0}
+  - {x: 0, y: 1, z: 0}
+  - {x: -1, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: -6, y: 10, z: 0}
+  - {x: -6, y: 9, z: 0}
+  - {x: -6, y: 8, z: 0}
+  - {x: -6, y: 7, z: 0}
+  - {x: -5, y: 10, z: 0}
+  - {x: -4, y: 10, z: 0}
+  - {x: -3, y: 10, z: 0}
+  - {x: -6, y: 6, z: 0}
+  - {x: -5, y: 7, z: 0}
+  - {x: -4, y: 8, z: 0}
+  - {x: -3, y: 9, z: 0}
+  - {x: -4, y: 9, z: 0}
+  - {x: -5, y: 8, z: 0}
+  - {x: -5, y: 9, z: 0}
+  - {x: -2, y: 10, z: 0}
+  - {x: -6, y: 0, z: 0}
+  - {x: -5, y: 0, z: 0}
+  - {x: -4, y: 0, z: 0}
+  - {x: -1, y: 10, z: 0}
+  - {x: 0, y: 10, z: 0}

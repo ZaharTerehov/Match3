@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TilemapLevelEditor/bomb.asset.meta
+guid: 598687d9b3a650e4da66bd24a1d312d1
+========
+guid: fa9710b7526421d47b8d6180c7ddc357
+>>>>>>>> a3db51581edc204c230101cf2fbb586ce34c9391:Assets/Animation/BombAnimation.asset.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
